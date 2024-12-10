@@ -96,7 +96,7 @@
     <h2 align="center"> Lender Login</h2>
     <hr>
     <br/>
-        <label for="username">Username:</label>
+        <label for="username">Email:</label>
         <input type="text" id="username" name="lemail" required>
         
         <label for="password">Password:</label>
