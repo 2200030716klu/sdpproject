@@ -377,7 +377,7 @@ nav .navbar .links li .sub-menu li{
     <h2 align="center">Borrower Login</h2>
     <hr>
     <br/>
-        <label for="username">Username:</label>
+        <label for="username">Email:</label>
         <input type="text" id="username" name="bemail" required>
         
         <label for="password">Password:</label>
