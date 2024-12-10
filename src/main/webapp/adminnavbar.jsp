@@ -357,7 +357,12 @@ nav .navbar .links li .sub-menu li{
           <li><a href="adminlogout">LOGOUT</a></li>
         </ul>
       </div>
-      
+      <div class="search-box">
+        
+        <div class="input-box">
+          <input type="text" placeholder="Search...">
+        </div>
+      </div>
     </div>
 
   </nav>
