@@ -331,7 +331,7 @@ nav .navbar .links li .sub-menu li{
         }
     </style>
 </head>
-<body  background="img/hero-bg.jpg">
+<body  background="img/hero-bg.jpg"><br>
  
 <nav>
 
