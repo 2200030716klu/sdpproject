@@ -162,9 +162,7 @@
 	
 	
 </div>
-<div  align="center" >
-<a href="borroweractiveloans" class="btn">Back</a>
-</div>
+
 
 </body>
 </html>
