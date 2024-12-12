@@ -67,7 +67,7 @@
     <div class="line">EMPLOYEMENT STATUS : ${borrower.empstatus} <br/></div>
     <div class="line">ANNUAL INCOME : ${borrower.annual_income}  <br/></div>
     <div class="line">CONTACT : ${borrower.contact} <br/></div>
-    <div class="line">PASSWORD : ${borrower.password} <br/></div>
+   
     
 </div>
 
