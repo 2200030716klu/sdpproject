@@ -73,7 +73,7 @@
     <div class="line">DOB : ${lender.dateofbirth}<br/></div>
     <div class="line">EMAIL : ${lender.email}<br/></div>
     <div class="line">ADDRESS : ${lender.address}<br/></div>
-    <div class="line">PASSWORD : ${lender.password} <br/></div>
+    
     
 </div>
 
