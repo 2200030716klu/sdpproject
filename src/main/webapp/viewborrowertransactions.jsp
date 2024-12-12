@@ -28,16 +28,8 @@
 	
 
 
-<div class ="container">
-    <div class = "row">
-        <h1>   List Loan </h1>
-    </div>
-
-    <div class = "row">
-        <div class = "col-lg-3">
-            <a th:href = "@{/loan/new}" class = "btn btn-primary btn-sm mb-3"> Add Loan</a>
-        </div>
-    </div>
+<div class ="container" style="margin-top:350px;">
+   
 
  
 
